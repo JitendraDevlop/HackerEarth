@@ -2,3 +2,4 @@
 using HackerEarth;
 
 CostOfBalloons.GetMinCostOfBalloons();
+SevenSegmentDisplay.GenerateNumUsingMatchSticks();
