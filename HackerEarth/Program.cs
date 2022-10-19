@@ -3,3 +3,4 @@ using HackerEarth;
 
 CostOfBalloons.GetMinCostOfBalloons();
 SevenSegmentDisplay.GenerateNumUsingMatchSticks();
+TagIdentification.IdentifyValidTag();
